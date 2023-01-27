@@ -1,1 +1,2 @@
-Testovyi fail main
+Testovyi fail main/
+Vtoraya strioka
